@@ -8,6 +8,8 @@ _A Python based offline Messaging Platform with voice-over functionality_
 <br><br>
 
 ### PROTOTYPE VIDEO
+https://github.com/raghavtwenty/chatter-box/assets/126254197/39c7a09d-e7fb-4b74-aed2-24fdcab09047
+
 <br>
 
 ### HOW TO EXECUTE
@@ -85,47 +87,47 @@ This is messaging platform where users can communicate offline, inside a big cam
 ### OUTPUT
 
 - Database structure <br><br>
-
+![1](https://github.com/raghavtwenty/chatter-box/assets/126254197/e5139ee9-a5af-46c6-a942-477c389f0be2)
 
 
 - Main menu <br><br>
-
+![2](https://github.com/raghavtwenty/chatter-box/assets/126254197/5ecca50c-2947-4ff3-82d4-b2d87be977ea)
 
 
 - About us <br><br>
-
+![3](https://github.com/raghavtwenty/chatter-box/assets/126254197/20c578fc-79c4-4047-8e8b-ccb21e227c81)
 
 
 - Account creation <br><br>
-
+![4](https://github.com/raghavtwenty/chatter-box/assets/126254197/78f59550-b553-499b-b850-615321b85d6e)
 
 
 - Hand cricket game <br><br>
-
+![5](https://github.com/raghavtwenty/chatter-box/assets/126254197/e315fe13-5a9a-4750-b876-7f030a6eba2f)
 
 
 - Search friends <br><br>
-
+![6](https://github.com/raghavtwenty/chatter-box/assets/126254197/d312689a-c5ca-45de-bc88-64ddf4f43294)
 
 
 - Message <br><br>
-
+![7](https://github.com/raghavtwenty/chatter-box/assets/126254197/25b74818-8f79-4187-991e-14cccfb9243a)
 
 
 - Chat History <br><br>
-
+![8](https://github.com/raghavtwenty/chatter-box/assets/126254197/e43404d0-f82f-4af9-be4f-54c7ff743794)
 
 
 - Account Settings <br><br>
-
+![9](https://github.com/raghavtwenty/chatter-box/assets/126254197/ed6636c2-ecca-4581-93e5-c371c596aa53)
 
 
 - Notification center view <br><br>
-
+![10](https://github.com/raghavtwenty/chatter-box/assets/126254197/75641ea2-8606-4b5c-a37d-09c6928e5b74)
 
 
 - Feedback menu <br><br>
-
+![11](https://github.com/raghavtwenty/chatter-box/assets/126254197/edee41bf-e9c1-4810-8ee9-21c99b0966fa)
 
 <br>
 
