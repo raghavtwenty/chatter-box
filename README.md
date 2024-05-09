@@ -1,16 +1,17 @@
 # CHATTER BOX
 _A Python based offline Messaging Platform with voice-over functionality_
-<br><br>
+<br><br><br>
 
 
 ### 🌟 MILESTONES 🌟
 🏆 Recognized as one of the top five projects at the school level, this endeavor earned a coveted spot at the prestigious 48th Jawaharlal Nehru National Science, Mathematics, and Environment Exhibition (JNNSMEE) for Children – 2021.
-<br><br>
+<br><br><br>
+
 
 ### PROTOTYPE VIDEO
 https://github.com/raghavtwenty/chatter-box/assets/126254197/39c7a09d-e7fb-4b74-aed2-24fdcab09047
 
-<br>
+<br><br>
 
 ### HOW TO EXECUTE
 
@@ -19,7 +20,6 @@ https://github.com/raghavtwenty/chatter-box/assets/126254197/39c7a09d-e7fb-4b74-
 ```
 host="localhost", user="raghav", password="12345678", database="CHATTER_BOX"
 ```
-<br>
 
 #### Table schema inside the database "CHATTER_BOX"
 
@@ -27,11 +27,15 @@ host="localhost", user="raghav", password="12345678", database="CHATTER_BOX"
 CREATE TABLE CHATTER_BOX_PROFILES(USERNAME VARCHAR(50) PRIMARY KEY,CHATTER_NAME CHAR(50),CHATTER_PHONE_NUMBER BIGINT,
 DATE_OF_BIRTH DATE,GENDER CHAR (20),ACCOUNT_PASSWORD VARCHAR(50));
 ```
-<br>
 
 #### Terminal
 ```
 git clone https://github.com/raghavtwenty/chatter-box.git
+```
+<br>
+
+```
+cd chatter-box/
 ```
 <br>
 
@@ -41,7 +45,7 @@ pip install -r requirements.txt
 <br>
 
 ```
-cd chatter-box/MAIN
+cd MAIN/
 ```
 <br>
 
@@ -51,19 +55,18 @@ python chatter_box_main.py
 <br>
 
 
-
 ### INTRODUCTION
 This pandemic has taught us the importance of “Technology”. During lockdown people were using social media for productivity and communication from morning till bed time to complete their daily needs ie, work from home, school from home etc. But the problem isn’t fully solved, In the case of visually impaired humans, people were facing challenges while using social media apps, here it comes the role of “Chatter box” this is an interactive instant messaging software in which people can send messages to their friends and unlike any other messaging platform this software has the unique ability to speak with voice over utility even the visually challenged people can use it.
-<br><br>
+<br><br><br>
 
 
 ### REQUIRED
 - PC or Laptop <br>
-- Pogramming language : Python <br>
-- Database : Mysql <br>
-- Python database connection module : Mysql connector <br>
-- Text to speech module : Pygame
-<br><br>
+- Pogramming language: Python <br>
+- Database: Mysql <br>
+- Python database connection module: Mysql connector <br>
+- Text to speech module: Pygame
+<br><br><br>
 
 
 ### WORKING
@@ -74,14 +77,14 @@ This is messaging platform where users can communicate offline, inside a big cam
 - This software has build in game where users can play hand cricket with the machine.<br>
 - Users can also change their account password, name, date of birth etc in “Account setting” menu. Even if the user had entered the wrong details at the time of account creation.<br>
 - All the new messages will be sent to “Notification centre” of the recipient with TIME & SENDER’S NAME . Where users, with one click they can see all message history including security notifications.
-<br><br>
+<br><br><br>
 
 
 ### ADVANTAGES
 - It has a voice over feature which will be helpful for the visually challenged people. <br>
 - The messages are sent super fast and there in no lag while sending and receiving. <br>
 - This software doesn’t require internet as computers are connected physically via cables. So, that users don’t need the depend on internet connection all the time.
-<br><br>
+<br><br><br>
 
 
 ### OUTPUT
@@ -129,13 +132,13 @@ This is messaging platform where users can communicate offline, inside a big cam
 - Feedback menu <br><br>
 ![11](https://github.com/raghavtwenty/chatter-box/assets/126254197/edee41bf-e9c1-4810-8ee9-21c99b0966fa)
 
-<br>
+<br><br>
 
 ### CREDITS
 - Mentor & Teacher: Shemeer.K.A, PGT, Computer Science. <br>
-- Student(s) Name: <br>
--- Designed & Programmed by : Raghava <br>
--- Voice over by : Poorvekka <br>
+- Students' Name: <br>
+-- Designed & Programmed by: Raghava <br>
+-- Voice Over by: Poorvekka <br>
 -- School: Kendriya Vidyalaya, Coimbatore. <br>
 <br><br>
 
